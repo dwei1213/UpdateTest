@@ -1,7 +1,4 @@
 apply plugin: 'com.android.library'
-// 根节点添加
-apply plugin: 'com.github.dcendents.android-maven'
-apply plugin: 'com.jfrog.bintray'
 
 android {
     compileSdkVersion 25
